@@ -1,0 +1,2 @@
+# DataMiningApplications
+Assignments
